@@ -1,0 +1,14 @@
+{
+   "Records":[
+       {
+           "s3":{
+               "bucket":{
+                   "name": "test-billing-input"
+               },
+            "object":{
+                "key": "billing_data_diary_may_2023.csv"
+            }
+           }
+       }
+    ]
+}
